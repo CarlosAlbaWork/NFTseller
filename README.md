@@ -7,4 +7,4 @@ For now, it is in Stand-by until I finish more projects.
 ### Changes that will be made
 - Hardhat was used to develop the project. However, my knowledge of TypeScript is limited, whereas my knowledge of Solidity is more developed. Therefore, i will migrate the project from Hardhat to Foundry. 
 - Coding the tests needed to check that the code works correctly
-- -Refactoring
+- Refactoring
