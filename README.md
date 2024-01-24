@@ -1,6 +1,10 @@
 
 
-### eXPLICACIÓN
-Este código pertenece a la estancia en prácticas que realicé en la carrera de Matemática Computacional. 
-Se basa en un programa que gestiona ventas y creación de NFTs en un entorno Blockchain.
-Se encuentra en una fase temprana de prueba, cuando tenga las distintas pruebas correctamente programadas, aplicaría el frontend de mi otro repositorio "TKSeller" y lo adaptaría a este formato
+###Summary
+This code was developed during my compulsory internship in my Computational Mathematics major. It´s a program that manages selling and creation of NFT tokens in a Blockchain enviroment.
+For now, it is in Stand-by until I finish more projects.
+
+###Changes that will be made
+- Hardhat was used to develop the project. However, my knowledge of TypeScript is limited, whereas my knowledge of Solidity is more developed. Therefore, i will migrate the project from Hardhat to Foundry. 
+- Coding the tests needed to check that the code works correctly
+- -Refactoring
